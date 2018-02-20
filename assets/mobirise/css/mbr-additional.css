@@ -1375,6 +1375,13 @@ body {
 .cid-qJ4hmDV2va {
   background-image: url("../../../assets/images/mbr-1-1620x1080.jpg");
 }
+.cid-qKeUuiMo5J {
+  background-image: url("../../../assets/images/mbr-720x1080.jpg");
+}
+.cid-qKeUuiMo5J .mbr-section-subtitle {
+  font-style: italic;
+  letter-spacing: 1rem;
+}
 .cid-qJ4hnimvNt .navbar {
   background: #ffffff;
   transition: none;
